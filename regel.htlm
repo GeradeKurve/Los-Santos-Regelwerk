@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Los Santos Regelwerk</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #1a1a1a;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Los Santos Regelwerk</h1>
+        <p>Willkommen in unserer Los Santos-Community! Um ein freundliches und sicheres Umfeld für alle Spieler zu gewährleisten, bitten wir dich, die folgenden Regeln zu befolgen. Verstöße gegen diese Regeln können zu Warnungen, Strafen oder einem Ausschluss aus dem Spiel führen.</p>
+
+        <h2>1. Allgemeiner Umgang und Respekt</h2>
+        <ul>
+            <li><strong>Freundlichkeit und Respekt:</strong> Behandle alle Spieler respektvoll und freundlich. Mobbing, Beleidigungen, Diskriminierung oder Belästigung in jeglicher Form sind nicht erlaubt.</li>
+            <li><strong>Keine toxische Sprache:</strong> Verwende keine anstößigen oder beleidigenden Ausdrücke.</li>
+            <li><strong>Kein Trolling:</strong> Absichtliches Trollen ist verboten.</li>
+            <li><strong>Kein Betteln:</strong> Wiederholtes Bitten um Vorteile wird nicht toleriert.</li>
+            <li><strong>Kein Provozieren:</strong> Provoziere keine anderen Spieler.</li>
+        </ul>
+
+        <h2>2. Cheating und Exploits</h2>
+        <ul>
+            <li><strong>Keine Cheats oder Exploits:</strong> Das Nutzen von Hacks oder unerlaubten Tools führt zu einem sofortigen Ausschluss.</li>
+            <li><strong>Bug-Meldungen:</strong> Fehler oder Schwachstellen im Spiel müssen gemeldet werden.</li>
+        </ul>
+
+        <h2>3. Verhalten im Spiel</h2>
+        <ul>
+            <li><strong>Fair Play:</strong> Verhalte dich im Spiel fair.</li>
+            <li><strong>Kein Spamming:</strong> Das Spammen von Nachrichten ist nicht erlaubt.</li>
+            <li><strong>Kein Teaming in Solo-Modi:</strong> Zusammenschließen von Spielern ist nicht erlaubt.</li>
+            <li><strong>Kein RDM (Random Deathmatch):</strong> Zufälliges Angreifen ist untersagt.</li>
+            <li><strong>Kein VDM (Vehicle Deathmatch):</strong> Fahrzeuge dürfen nicht missbraucht werden.</li>
+            <li><strong>Crash RP ab 30 mph:</strong> Unfälle über 30 mph müssen realistisch ausgespielt werden.</li>
+            <li><strong>Kein Online-Dating:</strong> Roblox ist keine Plattform für romantische Beziehungen.</li>
+        </ul>
+
+        <h2>4. Respekt vor dem Staff-Team</h2>
+        <ul>
+            <li><strong>Folge den Anweisungen des Staff-Teams:</strong> Respektiere die Entscheidungen der Moderatoren.</li>
+            <li><strong>Keine Respektlosigkeit:</strong> Respektloses Verhalten wird nicht toleriert.</li>
+        </ul>
+
+        <h2>5. Account-Sicherheit</h2>
+        <ul>
+            <li><strong>Kein Teilen von Accounts:</strong> Teile niemals deine Account-Informationen.</li>
+            <li><strong>Keine Weitergabe persönlicher Informationen:</strong> Veröffentliche keine privaten Daten im Spiel.</li>
+        </ul>
+
+        <h2>6. Werbung und Spam</h2>
+        <ul>
+            <li><strong>Keine Eigenwerbung:</strong> Werbe nicht für andere Spiele oder Produkte ohne Erlaubnis.</li>
+            <li><strong>Kein Scam:</strong> Betrügen von Spielern ist streng verboten.</li>
+        </ul>
+
+        <h2>7. Inhalte und Verhalten im Chat</h2>
+        <ul>
+            <li><strong>Jugendgerechte Inhalte:</strong> Achte darauf, dass alle Inhalte dem Altersniveau entsprechen.</li>
+            <li><strong>Keine politischen oder kontroversen Diskussionen:</strong> Sensible Themen sind nicht erwünscht.</li>
+        </ul>
+
+        <h2>8. Regeln für Entwickler und Spielbetreiber</h2>
+        <ul>
+            <li><strong>Keine unfairen Monetarisierungsstrategien:</strong> Das Spielerlebnis darf nicht durch Monetarisierung beeinträchtigt werden.</li>
+            <li><strong>Transparenz:</strong> Erkläre klar, was ein Spieler kauft.</li>
+        </ul>
+
+        <h2>9. Umgang mit Strafen</h2>
+        <ul>
+            <li><strong>Verwarnungen und Banns:</strong> Das Team kann Spieler ohne Vorwarnung entfernen.</li>
+            <li><strong>Umgehen von Banns ist verboten:</strong> Das Erstellen neuer Accounts führt zu weiteren Strafen.</li>
+            <li><strong>Berufung von Banns:</strong> Berufungen müssen respektvoll sein.</li>
+        </ul>
+
+        <h2>Zusammenfassung</h2>
+        <ul>
+            <li>Sei freundlich und respektvoll.</li>
+            <li>Halte dich an die Regeln und spiele fair.</li>
+            <li>Nutze keine Cheats oder Exploits.</li>
+            <li>Vermeide kontroverse Inhalte.</li>
+            <li>Folge den Anweisungen des Staff-Teams.</li>
+        </ul>
+
+        <p>Vielen Dank, dass du Teil unserer Community bist! Wir hoffen, dass du viel Spaß beim Spielen hast und dass wir gemeinsam eine positive und sichere Umgebung schaffen können.</p>
+    </div>
+</body>
+</html>
